@@ -1,10 +1,10 @@
 /* BUILDING
     IN PROGRESS */
 - 
--   👋 Hi, I’m @ligask 
+- 👋 Hi, I’m @ligask 
 - 👀 I’m interested in QA automation
-- 🌱 I’m currently learning Selenium with Java and master SQL
-- 💞️ I’m looking to collaborate on test automation projects
+- 🌱 Java, Selenium, SQL
+- 💞️ Looking to collaborate on test automation projects
 - 📫 kubaligas@gmail.com
 
 <!---
