@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @ligask 
+-/* BUILDING
+    IN PROGRESS */
+- 
+-   👋 Hi, I’m @ligask 
 - 👀 I’m interested in QA automation
 - 🌱 I’m currently learning Selenium with Java and master SQL
 - 💞️ I’m looking to collaborate on test automation projects
