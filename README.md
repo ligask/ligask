@@ -1,4 +1,3 @@
-- 
 - 👋 Hi, I’m @ligask 
 - 👀 I’m interested in QA automation
 - 🌱 Java, Selenium, SQL
